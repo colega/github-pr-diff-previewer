@@ -4,6 +4,8 @@
 
 This Chromium extension loads the PR diff on small PRs and displays it in the timeline under the PR description.
 
+![Screenshot](./images/screenshot.png)
+
 This allows reviewing, approving and merging without having to switch to the diff tab, which is usually very slow to load.
 
 ## Functionality
