@@ -4,6 +4,9 @@
 
 This Chromium extension loads the PR diff on small PRs and displays it in the timeline under the PR description.
 
+[Demo](https://github.com/colega/github-pr-diff-previewer/assets/1511481/a7ea03c3-dfa4-460c-9bfc-89535bc5572d)
+
+
 This allows reviewing, approving and merging without having to switch to the diff tab, which is usually very slow to load.
 
 ## Functionality
